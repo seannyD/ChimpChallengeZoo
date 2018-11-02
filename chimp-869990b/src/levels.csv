@@ -1,0 +1,42 @@
+type,n,t,msg
+training,3,1000,"Press the numbers in the right order!"
+training,4,1000
+training,5,1000
+training,9,1000
+arcade,4,1000,"Get ready!"
+arcade,4,600
+arcade,4,400
+arcade,4,300
+arcade,4,210
+arcade,5,1000,"Get ready!"
+arcade,5,600
+arcade,5,400
+arcade,5,300
+arcade,5,210
+arcade,6,1000,"Try six numbers!"
+arcade,6,600
+arcade,6,400
+arcade,6,300
+arcade,6,210
+arcade,7,1000,"Try seven numbers!"
+arcade,7,600
+arcade,7,400
+arcade,7,300
+arcade,7,210
+arcade,8,1000,"Try eight numbers!"
+arcade,8,600
+arcade,8,400
+arcade,8,300
+arcade,8,210
+arcade,9,1000,"Try nine numbers!"
+arcade,9,600
+arcade,9,400
+arcade,9,300
+arcade,9,210
+arcade,9,210,"You're as good as Ayumu!  Keep going!"
+arcade,9,200,"You're better than Ayumu!"
+arcade,9,200
+arcade,9,200
+arcade,9,200
+arcade,9,200
+arcade,9,200

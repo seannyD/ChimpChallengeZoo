@@ -1,0 +1,5 @@
+# Install
+
+Requires:
+* python pygame
+* 

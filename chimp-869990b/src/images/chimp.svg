@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="326.25186"
+   height="284.24542"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.0"
+   sodipodi:docname="chimp.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Screens/AgeScreen2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path5893"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5753"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2627"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="191.63372"
+     inkscape:cy="85.610964"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="786"
+     inkscape:window-x="0"
+     inkscape:window-y="14"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-472.35349,-315.34487)">
+    <g
+       id="g4723"
+       transform="matrix(0.745396,0,0,0.7624285,389.49763,27.456631)">
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3240"
+         d="m 322.93545,417.95183 c -13.56108,1.86138 -27.12783,8.09143 -35.58375,19.41418 -5.26454,8.8518 -4.7578,19.69988 -3.5193,29.58707 1.3023,16.83104 7.54566,32.66832 13.8535,48.08871 3.9821,10.56799 6.90678,21.52761 9.11747,32.6158 0.50797,2.18548 3.05086,2.25452 4.25142,0.65508 1.70056,-2.35281 2.25975,-5.34457 3.39136,-7.99515 4.22806,-13.17794 4.5621,-27.75422 11.80733,-39.82922 5.65125,-9.87824 12.7226,-19.07794 16.2159,-30.09037 3.61901,-9.97756 6.2357,-20.73525 5.01331,-31.43206 -1.88067,-10.17816 -9.88646,-19.65818 -20.28608,-20.8621 -1.41858,-0.0971 -2.83878,-0.29069 -4.26116,-0.15194 z"
+         style="fill:#443118;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         transform="matrix(1.8636334,0,0,1.9056861,-607.7918,-462.91682)"
+         sodipodi:open="true"
+         sodipodi:end="5.0984183"
+         sodipodi:start="1.2768717"
+         d="m 457.10932,510.65235 c -9.0617,3.71435 -18.63123,-3.22224 -21.37414,-15.4933 -2.74291,-12.27106 2.3795,-25.2298 11.4412,-28.94415 3.75506,-1.53918 7.78638,-1.2876 11.42098,0.71275"
+         sodipodi:ry="23.214285"
+         sodipodi:rx="17.142857"
+         sodipodi:cy="488.43362"
+         sodipodi:cx="452.14285"
+         id="path3254"
+         style="fill:#937450;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         transform="matrix(1.4911306,0,0,2.0087089,-398.85329,-514.21548)"
+         sodipodi:open="true"
+         sodipodi:end="8.134108"
+         sodipodi:start="3.9687494"
+         d="m 566.74944,471.44551 c 4.51675,-6.32608 11.54615,-5.87885 15.70059,0.99893 4.15444,6.87778 3.86074,17.58163 -0.65602,23.90772 -2.85346,3.99652 -6.86858,5.43939 -10.59441,3.80719"
+         sodipodi:ry="16.920055"
+         sodipodi:rx="11.111678"
+         sodipodi:cy="483.89883"
+         sodipodi:cx="574.27173"
+         id="path3272"
+         style="fill:#937450;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.08339024;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3274"
+         d="m 427.80604,561.985 c -53.19781,2.87416 -106.59115,6.19396 -159.81162,2.02937 -35.4532,-1.18843 -72.12013,4.69231 -103.06526,23.27376 -19.68189,11.27211 -37.61582,28.22681 -44.78093,50.66124 -9.73499,28.12215 -6.60804,61.48442 10.99066,85.72119 12.67066,15.85312 33.07374,24.22645 52.92712,23.10644 24.97436,-0.11931 49.66702,-4.98268 74.64336,-5.20347 25.89265,-1.07952 51.69399,2.20478 77.54845,2.76181 28.4067,-0.25776 56.75267,-5.0102 85.17405,-2.36995 25.4405,1.45469 51.04554,6.16692 76.49338,2.36995 17.24401,-3.27204 34.20984,-14.1945 40.69025,-31.46181 9.2824,-21.75396 7.75109,-46.5825 2.29503,-69.13802 -9.79209,-35.66843 -37.75997,-66.09099 -72.88484,-76.1985 -12.99154,-4.07449 -26.64185,-5.89463 -40.21965,-5.55201 z"
+         style="fill:#413a32;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         sodipodi:nodetypes="ccccczccc"
+         id="path3246"
+         d="m 354.0178,381.12348 c -29.59353,2.4073 -59.16182,9.15711 -86.35721,21.33892 -23.63288,19.1797 -22.57017,38.35376 -28.88637,59.30405 -3.56778,13.79056 -1.87115,28.43821 3.87209,41.32063 12.1244,40.5923 36.20696,117.80054 102.04673,131.47885 31.94627,-1.19175 68.77793,-8.75969 83.81708,-43.03437 15.19279,-34.62479 18.19365,-51.09684 24.73571,-77.31523 6.42217,-29.59142 7.05064,-64.21785 -13.10613,-88.68816 -18.66888,-22.16305 -41.65812,-41.27125 -86.1219,-44.40469 z"
+         style="fill:#413a32;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3242"
+         d="m 379.71803,419.79796 c -10.56071,0.67483 -19.77121,11.051 -18.6144,21.96529 0.55339,10.07317 5.08858,19.28876 9.61711,28.03992 6.59814,9.26767 14.77286,17.63175 18.87138,28.50691 3.25118,7.28164 5.49056,15.44688 11.17347,21.22984 2.64901,2.20219 6.65394,1.64809 8.94529,-0.82494 4.90199,-4.2079 6.88659,-10.82021 8.32813,-16.96411 1.90443,-9.98135 1.53101,-20.23711 1.36865,-30.34963 -0.53957,-10.38359 -3.40582,-20.82909 -9.44131,-29.31321 -4.80363,-7.54918 -9.6709,-15.78489 -17.65081,-20.19093 -3.93206,-1.76604 -8.33385,-2.30529 -12.59751,-2.09914 z"
+         style="fill:#443118;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3269"
+         d="m 322.4113,420.6317 c -10.16483,1.47148 -20.67444,4.36092 -28.51691,11.48593 -6.97582,6.39861 -10.30848,16.30086 -9.58867,25.75766 0.36061,10.78767 1.06423,21.733 4.52898,32.01604 2.24244,6.63179 5.53274,12.84303 7.75022,19.49077 2.63553,7.41994 4.40095,15.13217 7.06539,22.54619 3.83172,11.67907 8.85429,23.4824 17.79619,32.05324 7.68682,7.53293 18.24618,11.80548 28.88382,11.82259 10.49997,0.3892 20.94595,-2.0024 30.75018,-5.71079 9.84622,-3.97602 18.60644,-11.43137 23.05301,-21.39146 4.01958,-8.65965 6.35549,-17.9891 9.3183,-27.05396 3.799,-11.75212 5.94557,-24.09559 5.95375,-36.48588 0.11976,-8.58259 0.28051,-17.22283 -0.84794,-25.74643 -1.25599,-6.26397 -4.31591,-11.98742 -7.69505,-17.30542 -4.47622,-6.92144 -10.20041,-13.11597 -17.05081,-17.60755 -6.0846,-3.44928 -13.56338,-4.13974 -20.12432,-1.73597 -5.39689,1.72859 -10.42665,4.79566 -16.08123,5.59081 -5.17464,0.18266 -9.92467,-2.26318 -14.82439,-3.5765 -6.56996,-2.25202 -13.33681,-4.61898 -20.37052,-4.14927 z"
+         style="fill:#443118;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3238"
+         d="m 358.53439,471.83192 c -13.47519,0.81577 -25.27264,8.95467 -32.56986,19.09271 -14.42445,18.75687 -21.90502,42.52434 -18.19149,65.46417 2.68632,16.50873 9.73322,32.91185 22.54311,44.96213 10.05521,9.22047 24.59791,14.92907 38.86788,12.86212 14.24541,-2.04388 26.52726,-11.20301 33.18922,-22.82246 7.6934,-12.44775 10.407,-26.95924 11.01385,-41.12474 0.33391,-13.30276 -3.6633,-26.42089 -10.0401,-38.26808 -4.86882,-9.30073 -9.41258,-18.89431 -16.23821,-27.15266 -5.27865,-6.59238 -13.12686,-11.61184 -22.04628,-12.71005 -2.14748,-0.35735 -4.35278,-0.38236 -6.52812,-0.30314 z"
+         style="fill:#805d2e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.06703424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3249"
+         d="m 345.13464,498.14945 14.11915,5.29384"
+         style="fill:none;stroke:#000000;stroke-width:7.06703424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         id="path3251"
+         d="m 375.2555,497.18692 -7.05957,6.25637"
+         style="fill:none;stroke:#000000;stroke-width:7.06703424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         sodipodi:nodetypes="cs"
+         id="path3263"
+         d="m 318.01846,560.48804 c 0,0 50.58432,58.53178 83.8635,-2.7224"
+         style="fill:none;stroke:#000000;stroke-width:7.06703424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         transform="matrix(1.8636334,0,0,1.9056861,-617.7918,-464.91682)"
+         sodipodi:open="true"
+         sodipodi:end="7.4813128"
+         sodipodi:start="1.2768717"
+         d="m 503.22349,488.24958 c -3.07031,0.72732 -6.31267,-0.63096 -7.24203,-3.03381 -0.92936,-2.40285 0.80623,-4.94035 3.87653,-5.66768 3.07031,-0.72732 6.31267,0.63096 7.24203,3.03381 0.87802,2.27012 -0.62178,4.68701 -3.44444,5.5506"
+         sodipodi:ry="4.5456862"
+         sodipodi:rx="5.8083773"
+         sodipodi:cy="483.89883"
+         sodipodi:cx="501.54074"
+         id="path3265"
+         style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/Users/pplsuser/Desktop/Stuff/FoxWolf/ZooImages/Anim2/01.png"
+         transform="matrix(1.8636334,0,0,1.9056861,-547.6692,-462.99178)"
+         sodipodi:open="true"
+         sodipodi:end="7.4813128"
+         sodipodi:start="1.2768717"
+         d="m 503.22349,488.24958 c -3.07031,0.72732 -6.31267,-0.63096 -7.24203,-3.03381 -0.92936,-2.40285 0.80623,-4.94035 3.87653,-5.66768 3.07031,-0.72732 6.31267,0.63096 7.24203,3.03381 0.87802,2.27012 -0.62178,4.68701 -3.44444,5.5506"
+         sodipodi:ry="4.5456862"
+         sodipodi:rx="5.8083773"
+         sodipodi:cy="483.89883"
+         sodipodi:cx="501.54074"
+         id="path3267"
+         style="fill:none;stroke:#000000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="62.629459"
+       y="943.18781"
+       id="text5449"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5451"
+         x="62.629459"
+         y="943.18781" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5559"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion5561"><rect
+           id="rect5563"
+           width="462.64987"
+           height="105.05586"
+           x="165.66502"
+           y="801.76642" /></flowRegion><flowPara
+         id="flowPara5565" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5737"
+       style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><flowRegion
+         id="flowRegion5739"><rect
+           id="rect5741"
+           width="177.78685"
+           height="64.649765"
+           x="971.76672"
+           y="920.96442" /></flowRegion><flowPara
+         id="flowPara5743" /></flowRoot>  </g>
+</svg>

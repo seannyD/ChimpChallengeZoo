@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+tex/*.pdf
+*.pyc
+src/results/*.csv
+src/results/*.png
