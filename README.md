@@ -1,6 +1,8 @@
 # QHIMP Challenge
 
-These are the results from a museum exhibit.
+These are the results from a museum exhibit. [Living links](http://www.living-links.org/chimp-challenge-memory-test/), 
+[some details on the experiment](http://www.replicatedtypo.com/the-qhimp-qhallenge-working-memory-in-humans-and-chimpanzees/4947.html).
+
 
 ## chimp-869990b
 
